@@ -10,8 +10,9 @@
   "dependencies": {
     "@fontsource-variable/montserrat": "^5.0.4",
     "@fontsource/merriweather": "^5.0.3",
-    "gatsby": "5.10.0-alpha-adapters.141",
-    "gatsby-adapter-netlify": "1.0.0-alpha-adapters.21613",
+    "@netlify/plugin-gatsby": "./netlify-plugin-gatsby-3.7.0-alpha-adapters.0.tgz",
+    "gatsby": "5.10.0-alpha-adapters.142",
+    "gatsby-adapter-netlify": "1.0.0-alpha-adapters.21614",
     "gatsby-plugin-feed": "^5.11.0",
     "gatsby-plugin-image": "^3.11.0",
     "gatsby-plugin-manifest": "^5.11.0",
